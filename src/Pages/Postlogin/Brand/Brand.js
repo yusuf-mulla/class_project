@@ -71,7 +71,7 @@ const Brand = () => {
         </div>
         <div className="Product-Top-button">
           <Button variant="contained" color="success">
-            Add Brand
+            Add Brands
           </Button>
         </div>
       </div>
